@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/suwan/suwan-2024-8-21-16-3-28/:/
+ - /content/suwan/suwan-2024-8-21-16-3-28/metadata.json:/metadata.json
+ - /content/suwan/suwan-2024-8-21-16-3-28/redirects.json:/redirects.json
